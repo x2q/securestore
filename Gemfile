@@ -34,3 +34,4 @@ gem 'padrino', '0.10.7'
 
 gem 'secretsharing'
 gem 'encryptor'
+gem 'SysVIPC'

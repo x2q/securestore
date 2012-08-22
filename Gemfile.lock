@@ -1,6 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    SysVIPC (0.9)
     activesupport (3.2.8)
       i18n (~> 0.6)
       multi_json (~> 1.0)
@@ -107,6 +108,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  SysVIPC
   dm-aggregates
   dm-constraints
   dm-core
